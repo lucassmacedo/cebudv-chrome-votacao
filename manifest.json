@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "CEBUDV Votações",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://docs.google.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/favicon-16x16.png",
+      "48": "images/favicon-48x48.png",
+      "128": "images/favicon-144x144.png"
+    }
+  },
+  "icons": {
+    "16": "images/favicon-16x16.png",
+    "48": "images/favicon-48x48.png",
+    "128": "images/favicon-144x144.png"
+  }
+}
+
