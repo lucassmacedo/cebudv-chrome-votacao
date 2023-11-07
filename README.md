@@ -25,6 +25,10 @@ Após a configuração, a extensão funcionará automaticamente de acordo com as
 - 10 após segundos o sócio votar o forms volta a página inicial da votação.
 
 Para um melhor funcionamento, a extensão deve ser instalada em um "Perfil" do Chrome novo, sem estar logado em nenhuma conta do Google.
+
+![alt text](https://github.com/lucassmacedo/cebudv-chrome-votacao/blob/master/images/popup.png?raw=true)
+
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja melhorar esta extensão ou relatar problemas, fique à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) neste repositório.
