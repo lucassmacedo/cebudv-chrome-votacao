@@ -3,6 +3,26 @@
 Esta extensão do Google Chrome permite que os usuários participem de votações digitais configuradas pelo Núcleo/DAV. 
 É uma solução flexível que suporta várias eleições e configurações.
 
+## Como Adicionar ao Google Chrome
+
+Siga estas etapas simples para adicionar a extensão de Votação Digital ao seu navegador Google Chrome:
+- Clone ou faça o download deste repositório para o seu computador.
+- Abra o navegador Google Chrome.
+- Na barra de endereços, digite `chrome://extensions/` e pressione Enter.
+- Certifique-se de que a opção "Modo do desenvolvedor" (Developer Mode) esteja ativada no canto superior direito da página.
+- Clique no botão "Carregar sem compactação" (Load unpacked) que agora deve estar visível.
+- Navegue até o diretório onde você clonou ou baixou este repositório e selecione a pasta raiz.
+- Clique no botão "Selecionar Pasta" (Select Folder) para carregar a extensão no navegador.
+
+A extensão de Votação Digital agora deve estar instalada e ativa no seu Google Chrome. Você verá seu ícone na barra de ferramentas do navegador.
+
+Lembre-se de configurar os parâmetros necessários conforme descrito na seção de "Configuração" deste README antes de usar a extensão.
+
+**Observação**: Certifique-se de estar usando a versão mais recente do Google Chrome para garantir a compatibilidade com a extensão.
+
+Agora você está pronto para começar a usar a extensão para realizar votações digitais de forma eficiente e transparente.
+
+
 ## Configuração
 
 Antes de usar a extensão, é necessário configurá-la com os seguintes parâmetros:
